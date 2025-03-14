@@ -37,13 +37,13 @@
 
 ## 👩🏻‍💻 프로젝트
 
-### 📌 기록 작성 웹 페이지 (MPA)
+### 📌 기록 작성 웹 페이지
 
 - **기술 스택**: Docker / Ubuntu Server / PostgreSQL / Spring Boot / Naver Map 제스처 조작 / Unity
 - **링크** [https:www.mycom24.p-e.kr](https:www.mycom24.p-e.kr)
 - **관련 문서**: [\[Docker\] 웹/DB 서버 만들기(REST API)](https://www.notion.so/Docker-DB-REST-API-15f34560b0b481a9b9f5d71c116475ba?pvs=21)
 
-### 📌 간단한 게시판과 회원가입 / 로그인 페이지 (SPA)
+### 📌 간단한 게시판과 회원가입 / 로그인 페이지
 
 - **기술 스택**: Java / Spring Boot / H2 / OAuth2 / Spring Security / Test(JUnit)
 - **관련 문서**: [\[Spring Boot\] 블로그 만들기 - 개념잡기](https://www.notion.so/Spring-Boot-17734560b0b4803ea15cd94769f46d9e?pvs=21)
