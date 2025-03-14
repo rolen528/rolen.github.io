@@ -1,6 +1,6 @@
 # 노력으로 만드는 최성현
 
-다양한 경험과 학습 열정은 도전을 극복하는 원동력이 되어왔습니다.\
+다양한 경험과 학습 열정은 도전을 극복하는 원동력이 되어왔습니다.
 새로운 배움과 스스로 학습하는 것에 즐거움을 갖고 프로젝트를 완성해내어 좋은 결과를 얻은 경험이 있습니다.
 
 
@@ -40,7 +40,7 @@
 ### 📌 기록 작성 웹 페이지 (MPA)
 
 - **기술 스택**: Docker / Ubuntu Server / PostgreSQL / Spring Boot / Naver Map 제스처 조작 / Unity
-- **링크** [https://118.220.95.232:8443/rolen/home.html](https://118.220.95.232:8443/rolen/home.html)
+- **링크** [https:www.mycom24.p-e.kr](https:www.mycom24.p-e.kr)
 - **관련 문서**: [\[Docker\] 웹/DB 서버 만들기(REST API)](https://www.notion.so/Docker-DB-REST-API-15f34560b0b481a9b9f5d71c116475ba?pvs=21)
 
 ### 📌 간단한 게시판과 회원가입 / 로그인 페이지 (SPA)
@@ -50,8 +50,8 @@
 
 ### 📌 HandTrack 제스처 인식 프로그램
 
-- **기술 스택**: Ubuntu Server / Remote-SSH / Handtrack.js
-- **링크**: [https://tv.gtec.ac.kr:9443/](https://tv.gtec.ac.kr:9443/)
+- **기술 스택**: Ubuntu Server / Handtrack.js
+- **링크**: [페이지 이동](https://www.mycom24.p-e.kr/rolen/handTrack.html)
 - **영상**: [동작영상](https://www.youtube.com/watch?v=fV_D0ODf87E)
 - **관련 문서**: [\[TensorFlow\] 제스처 인식 웹](https://www.notion.so/TensorFlow-15f34560b0b4817f9da3e2f6cb2f3b94?pvs=21)
 
