@@ -52,7 +52,7 @@
 
 - **기술 스택**: Ubuntu Server / Handtrack.js
 - **링크**: [페이지 이동](https://www.mycom24.p-e.kr/rolen/handTrack.html)
-- **영상**: [동작영상](https://www.youtube.com/watch?v=fV_D0ODf87E)
+- **영상**: [동작 영상 YOUTUBE](https://www.youtube.com/watch?v=fV_D0ODf87E)
 - **관련 문서**: [\[TensorFlow\] 제스처 인식 웹](https://www.notion.so/TensorFlow-15f34560b0b4817f9da3e2f6cb2f3b94?pvs=21)
 
 ## 👩🏻‍🚀 일상
